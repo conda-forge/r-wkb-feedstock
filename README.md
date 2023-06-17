@@ -1,11 +1,11 @@
-About r-wkb
-===========
+About r-wkb-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-wkb-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=wkb
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-wkb-feedstock/blob/main/LICENSE.txt)
 
 Summary: Utility functions to convert between the 'Spatial' classes specified by the package 'sp', and the well-known binary '(WKB)' representation for geometry specified by the 'Open Geospatial Consortium'. Supports 'Spatial' objects of class 'SpatialPoints', 'SpatialPointsDataFrame', 'SpatialLines', 'SpatialLinesDataFrame', 'SpatialPolygons', and 'SpatialPolygonsDataFrame'. Supports 'WKB' geometry types 'Point', 'LineString', 'Polygon', 'MultiPoint', 'MultiLineString', and 'MultiPolygon'. Includes extensions to enable creation of maps with 'TIBCO Spotfire'.
 
